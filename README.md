@@ -2,6 +2,8 @@
 
 Homepage: https://xinntao.github.io/
 
+GoogleScholar: https://scholar.google.com.hk/citations?user=FQgZpQoAAAAJ
+
 
 <!--
 **xinntao/xinntao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
